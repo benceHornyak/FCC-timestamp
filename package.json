@@ -1,0 +1,13 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "timestamp microservice for fcc project",
+  "main": "server.js",
+  "repository": "https://github.com/HornyakBence/FCC-timestamp.git",
+  "author": "HornyakBence",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11"
+  }
+}
